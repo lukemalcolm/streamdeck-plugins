@@ -29,6 +29,7 @@ IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com
 Memory Game | Play the Memory game on Stream Deck | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-memorygame/releases)
 Mic Mute | Quickly mute your mic with one button | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-MicMute/releases), [Demo](https://youtu.be/WrsqExqfLCg)
 Minecraft | Get stats of your favorite Minecraft server live on the Stream Deck. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Notch | Control Builder and Standalone via OSC | ✔️ | ✖️ | [Luke Malcolm](https://github.com/lukemalcolm) | [Download](https://github.com/lukemalcolm/streamdeck-notch/releases)
 OBS Replay | Start/Stop the OBS replay function | ✔️ | ✔️ | [cuddlycheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.obs.replay/blob/master/sch.umann.it.obs.replay.streamDeckPlugin)  |
 OBS Tools | Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 ServiceNow | Track tickets from your ServiceNow Instance | ✔️ | ✔️ | [Aidan Wardman](https://github.com/aidanwardman) | [Download](https://github.com/aidanwardman/ServiceNow-Stream-Deck-Plugin/releases)
